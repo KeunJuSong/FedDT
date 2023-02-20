@@ -1,2 +1,6 @@
 # FedDT
-FedDT: A federated transfer learning framework for power generation forecasting of newly diverse-built PV sites using Delaunay Triangulation
+FedDT: Federated Transfer Learning-based PV power forecasting of newly built PV sites using Delaunay Triangulation 
+
+This repository is on-going work.
+
+Keywords: Federated transfer learning, Delaunay Triangulation, ???
