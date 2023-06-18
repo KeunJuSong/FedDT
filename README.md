@@ -1,5 +1,5 @@
 # FedDT
-FedDT: Federated Transfer Learning-based PV power forecasting of newly built PV sites using Delaunay Triangulation 
+FedDT w/ DP..
 
 This repository is on-going work.
 
